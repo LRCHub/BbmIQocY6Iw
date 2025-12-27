@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バチモリーナ",
+  "base_artist": "iON!",
+  "createdAt": "2025-12-27T13:50:45.659119Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バチモリーナ",
+      "artist": "iON!",
+      "has_synced": false,
+      "path": "select/pl_01_バチモリーナ_iON!.txt"
+    }
+  ]
+}
